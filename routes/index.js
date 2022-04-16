@@ -15,4 +15,8 @@ router.get('/dashboard',(req,res) => {
     res.render('Dashboard')
 })
 
+router.get('/test',(req,res) => {
+    res.render('This is Test')
+})
+
 module.exports = router
