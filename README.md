@@ -1,4 +1,1 @@
-* Added the handle bar for now 
-# StoryBookNode
-
-/node_modules
+Created Story app with the feature of the google Oauth through the passport with node, express, mongo materialize design .
